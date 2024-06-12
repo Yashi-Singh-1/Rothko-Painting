@@ -43,11 +43,11 @@
     <h3 id="prerequisites">Prerequisites</h3>
     <p>No prerequisites are needed to view the webpage.</p>
 
-    <h3 id="installation">Installation</h3>
-    <ol>
-        <li>Clone this repository to your local machine.</li>
-        <li>Open the index.html file in a web browser.</li>
-    </ol>
+<h3 id="installation">Installation</h3>
+<ol>
+    <li>Clone this repository to your local machine.</li>
+    <li>Open the index.html file in a web browser.</li>
+</ol>
 </section>
 
 <section id="usage">
@@ -62,15 +62,16 @@
 
 <section id="preview">
     <h2>Preview</h2>
-    <p>To see how the webpage looks, simply open the index.html file in a web browser.</p>
+    
+ ![Preview](Preview.png)
 </section>
 
 <section id="contact-information">
     <h2>Contact Information</h2>
     <p>For any queries or feedback, you can reach out to me via:</p>
     <ul>
-        <li><a href="www.linkedin.com/in/yashi-singh-b4143a246">LinkedIn</a></li>
-        <li><a href="https://github.com/Yashi-Singh-1/Rothko-Painting">GitHub</a></li>
+        <li>LinkedIn ( www.linkedin.com/in/yashi-singh-b4143a246 ) </li>
+        <li><a href="https://github.com/Yashi-Singh-1/">GitHub</a></li>
     </ul>
 </section>
 
