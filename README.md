@@ -1,5 +1,7 @@
 <h1>Project Title: Rothko Painting Webpage</h1>
 
+This HTML and CSS code creates a webpage mimicking a Rothko painting, with colorful rectangular shapes arranged on a canvas within a frame.
+
 <h2>Table of Contents</h2>
 <ul>
     <li><a href="#introduction">Introduction</a></li>
